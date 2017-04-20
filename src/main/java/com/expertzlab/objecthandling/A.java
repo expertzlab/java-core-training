@@ -18,4 +18,8 @@ public class A implements Cloneable{
 
     String str = "hello";
 
+    public void printString(){
+        System.out.println(str);
+    }
+
 }
