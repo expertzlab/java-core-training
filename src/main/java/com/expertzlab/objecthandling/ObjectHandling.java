@@ -1,4 +1,4 @@
-package com.expertzlab;
+package com.expertzlab.objecthandling;
 
 /**
  * Created by gireeshbabu on 19/04/17.
@@ -15,11 +15,4 @@ public class ObjectHandling {
         System.out.println("i in var -" + var.i);
     }
 
-}
-
-class A{
-
-    int i = 10;
-
-    String abc = "hello";
 }
